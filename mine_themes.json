@@ -5,15 +5,15 @@
         {
             "normal_image":
             {
-                "path":"blank_box.jpg"
+                "path":"images/blank_box.jpg"
             },
             "hovered_image":
             {
-                "path":"plain.jpg"
+                "path":"images/plain.jpg"
             },
             "selected_image":
             {
-                "path":"blank_box.jpg"
+                "path":"images/blank_box.jpg"
             }
         }
     },
@@ -23,19 +23,19 @@
         {
             "normal_image":
             {
-                "path":"flag.jpg"
+                "path":"images/flag.jpg"
             },
             "hovered_image":
             {
-                "path":"flag.jpg"
+                "path":"images/flag.jpg"
             },
             "selected_image":
             {
-                "path":"flag.jpg"
+                "path":"images/flag.jpg"
             },
             "disabled_image":
             {
-                "path":"flag.jpg"
+                "path":"images/flag.jpg"
             }
         }       
     },
@@ -45,19 +45,19 @@
         {
             "normal_image":
             {
-                "path":"mine.jpg"
+                "path":"images/mine.jpg"
             },
             "hovered_image":
             {
-                "path":"mine.jpg"
+                "path":"images/mine.jpg"
             },
             "selected_image":
             {
-                "path":"mine.jpg"
+                "path":"images/mine.jpg"
             },
             "disabled_image":
             {
-                "path":"mine.jpg"
+                "path":"images/mine.jpg"
             }
         }
     },
@@ -67,19 +67,19 @@
         {
             "normal_image":
             {
-                "path":"zero.jpg"
+                "path":"images/zero.jpg"
             },
             "hovered_image":
             {
-                "path":"zero.jpg"
+                "path":"images/zero.jpg"
             },
             "selected_image":
             {
-                "path":"zero.jpg"
+                "path":"images/zero.jpg"
             },
             "disabled_image":
             {
-                "path":"zero.jpg"
+                "path":"images/zero.jpg"
             }
         }        
     },
@@ -89,19 +89,19 @@
         {
             "normal_image":
             {
-                "path":"one.jpg"
+                "path":"images/one.jpg"
             },
             "hovered_image":
             {
-                "path":"one.jpg"
+                "path":"images/one.jpg"
             },
             "selected_image":
             {
-                "path":"one.jpg"
+                "path":"images/one.jpg"
             },
             "disabled_image":
             {
-                "path":"one.jpg"
+                "path":"images/one.jpg"
             }
         }
     },
@@ -111,19 +111,19 @@
         {
             "normal_image":
             {
-                "path":"two.jpg"
+                "path":"images/two.jpg"
             },
             "hovered_image":
             {
-                "path":"two.jpg"
+                "path":"images/two.jpg"
             },
             "selected_image":
             {
-                "path":"two.jpg"
+                "path":"images/two.jpg"
             },
             "disabled_image":
             {
-                "path":"two.jpg"
+                "path":"images/two.jpg"
             }
         }
     },
@@ -133,19 +133,19 @@
         {
             "normal_image":
             {
-                "path":"three.jpg"
+                "path":"images/three.jpg"
             },
             "hovered_image":
             {
-                "path":"three.jpg"
+                "path":"images/three.jpg"
             },
             "selected_image":
             {
-                "path":"three.jpg"
+                "path":"images/three.jpg"
             },
             "disabled_image":
             {
-                "path":"three.jpg"
+                "path":"images/three.jpg"
             }
         }
     },
@@ -155,19 +155,19 @@
         {
             "normal_image":
             {
-                "path":"four.jpg"
+                "path":"images/four.jpg"
             },
             "hovered_image":
             {
-                "path":"four.jpg"
+                "path":"images/four.jpg"
             },
             "selected_image":
             {
-                "path":"four.jpg"
+                "path":"images/four.jpg"
             },
             "disabled_image":
             {
-                "path":"four.jpg"
+                "path":"images/four.jpg"
             }
         }
     },
@@ -177,19 +177,19 @@
         {
             "normal_image":
             {
-                "path":"five.jpg"
+                "path":"images/five.jpg"
             },
             "hovered_image":
             {
-                "path":"five.jpg"
+                "path":"images/five.jpg"
             },
             "selected_image":
             {
-                "path":"five.jpg"
+                "path":"images/five.jpg"
             },
             "disabled_image":
             {
-                "path":"five.jpg"
+                "path":"images/five.jpg"
             }
         }
     },
@@ -199,19 +199,19 @@
         {
             "normal_image":
             {
-                "path":"six.jpg"
+                "path":"images/six.jpg"
             },
             "hovered_image":
             {
-                "path":"six.jpg"
+                "path":"images/six.jpg"
             },
             "selected_image":
             {
-                "path":"six.jpg"
+                "path":"images/six.jpg"
             },
             "disabled_image":
             {
-                "path":"six.jpg"
+                "path":"images/six.jpg"
             }
         }
     },
@@ -221,19 +221,19 @@
         {
             "normal_image":
             {
-                "path":"seven.jpg"
+                "path":"images/seven.jpg"
             },
             "hovered_image":
             {
-                "path":"seven.jpg"
+                "path":"images/seven.jpg"
             },
             "selected_image":
             {
-                "path":"seven.jpg"
+                "path":"images/seven.jpg"
             },
             "disabled_image":
             {
-                "path":"seven.jpg"
+                "path":"images/seven.jpg"
             }
         }
     },
@@ -243,19 +243,19 @@
         {
             "normal_image":
             {
-                "path":"eight.jpg"
+                "path":"images/eight.jpg"
             },
             "hovered_image":
             {
-                "path":"eight.jpg"
+                "path":"images/eight.jpg"
             },
             "selected_image":
             {
-                "path":"eight.jpg"
+                "path":"images/eight.jpg"
             },
             "disabled_image":
             {
-                "path":"eight.jpg"
+                "path":"images/eight.jpg"
             }
         }
     }
